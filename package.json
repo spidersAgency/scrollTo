@@ -11,5 +11,8 @@
     "animate"
   ],
   "author": "Maciej Palmowski",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies" : {
+    "jquery":"^3.0.0"
+  }
 }
