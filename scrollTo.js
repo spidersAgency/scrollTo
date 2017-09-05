@@ -1,4 +1,8 @@
-$('.scrollto').on( 'click', function(){
+import $ from 'jquery';
+window.$ = $;
+$('.scrollto').on( 'click', function( e ){
+    e.preventDefault();
+
     var scroll_to = $(this).data( 'scroll-to' );
     var offset = $(this).data( 'offset' );
     var easing = $(this).data( 'easing' );
