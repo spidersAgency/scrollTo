@@ -1,0 +1,15 @@
+{
+  "name": "sa_scroll_to",
+  "version": "1.0.0",
+  "description": "Simple JS scrollTo",
+  "main": "scrollTo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrollTo",
+    "animate"
+  ],
+  "author": "Maciej Palmowski",
+  "license": "ISC"
+}
